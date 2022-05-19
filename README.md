@@ -1,3 +1,5 @@
+## Note: The repository credits goes to Noah Gift. I replicated it while reading the book - Practical MLOps from O'Reily. 
+
 # flask-ml-azure-serverless
 Deploy Flask Machine Learning Application on Azure App Services
 
