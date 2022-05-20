@@ -20,7 +20,7 @@ def scale(payload):
 
 @app.route("/")
 def home():
-    html = "<h3>Azure Pipelines Continuous Delivery (CD) Flask APP </h3>"
+    html = "<h3>Continuous Delivery (CD) Demo on Azure Pipelines using Flask APP </h3>"
     return html.format(format)
 
 # TO DO:  Log out the prediction value
